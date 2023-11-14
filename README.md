@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### 🎮 Games
+- [![Google Play Badge](https://img.shields.io/badge/1D%20Maze-414141?logo=googleplay&logoColor=fff&style=plastic)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.Maze1D&pli=1) / [![Itch.io Badge](https://img.shields.io/badge/1D%20Maze-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/maze-1d)
+#### ✨ Games made for Game Jams ✨
+- [![Itch.io Badge](https://img.shields.io/badge/Rebuilder%3A%20Cursed%20Samurai-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/rebuilder-cursed-samurai) for [UDC Game Jam #27](https://itch.io/jam/udc-jam-27)
+- [![Itch.io Badge](https://img.shields.io/badge/Custom%20Room-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/custom-room) for [UDC Game Jam #26](https://itch.io/jam/udc-jam-26)
+- [![Itch.io Badge](https://img.shields.io/badge/Crime%20Roots-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/crime-roots) for [Global Game Jam 2023](https://v3.globalgamejam.org/2023/games)
+
 <!--
 **figo711/figo711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
