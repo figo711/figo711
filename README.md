@@ -3,6 +3,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/figo711/)
 [![CodinGame Badge](https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge)](https://www.codingame.com/profile/e4eada0db219a2c89a68c152c6b6a1180257233)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/maxim-panis/)
 [![Google Play Badge](https://img.shields.io/badge/Eliz%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/developer?id=Eliz+Studios)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/457850341149376513)
 ## Hi there 👋
