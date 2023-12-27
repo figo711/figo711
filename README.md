@@ -6,6 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/maxim-panis/)
 [![Google Play Badge](https://img.shields.io/badge/Eliz%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/developer?id=Eliz+Studios)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/457850341149376513)
+[![X Badge](https://img.shields.io/badge/%40sairon711-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/sairon711)
 ## Hi there 👋
 
 ## 🎮 Games
