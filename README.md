@@ -4,13 +4,14 @@
 [![CodinGame Badge](https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge)](https://www.codingame.com/profile/e4eada0db219a2c89a68c152c6b6a1180257233)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/maxim-panis/)
-[![Google Play Badge](https://img.shields.io/badge/Eliz%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/developer?id=Eliz+Studios)
+[![Google Play Badge](https://img.shields.io/badge/Eliz%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/dev?id=5432393032888367651)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/457850341149376513)
 [![X Badge](https://img.shields.io/badge/%40sairon711-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/sairon711)
 ## Hi there 👋
 
 ## 🎮 Games
 - [![Google Play Badge](https://img.shields.io/badge/1D%20Maze-414141?logo=googleplay&logoColor=fff&style=plastic)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.Maze1D&pli=1) | [![Itch.io Badge](https://img.shields.io/badge/1D%20Maze-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/maze-1d)
+- [![Google Play Badge](https://img.shields.io/badge/Pong%20Stars-414141?logo=googleplay&logoColor=fff&style=plastic)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.PongStars&pli=1)
 ### ✨ Games made for Game Jams ✨
 - [![Itch.io Badge](https://img.shields.io/badge/Rebuilder%3A%20Cursed%20Samurai-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/rebuilder-cursed-samurai) for [UDC Game Jam #27](https://itch.io/jam/udc-jam-27)
 - [![Itch.io Badge](https://img.shields.io/badge/Custom%20Room-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/custom-room) for [UDC Game Jam #26](https://itch.io/jam/udc-jam-26)
