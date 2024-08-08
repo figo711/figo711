@@ -4,19 +4,26 @@
 [![CodinGame Badge](https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge)](https://www.codingame.com/profile/e4eada0db219a2c89a68c152c6b6a1180257233)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/maxim-panis/)
-[![Google Play Badge](https://img.shields.io/badge/Eliz%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/dev?id=5432393032888367651)
+[![Google Play Badge](https://img.shields.io/badge/Eliz%20Game%20Studios-000?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/dev?id=5432393032888367651)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/457850341149376513)
 [![X Badge](https://img.shields.io/badge/%40sairon711-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/sairon711)
-## Hi there 👋
+
+✨ All games: https://eliz-studios.fr/#games
+
+🚀 All apps: https://eliz-studios.fr/#apps
 
 ## 🎮 Games
-- [![Google Play Badge](https://img.shields.io/badge/1D%20Maze-414141?logo=googleplay&logoColor=fff&style=plastic)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.Maze1D&pli=1) | [![Itch.io Badge](https://img.shields.io/badge/1D%20Maze-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/maze-1d)
-- [![Google Play Badge](https://img.shields.io/badge/Pong%20Stars-414141?logo=googleplay&logoColor=fff&style=plastic)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.PongStars&pli=1)
-### ✨ Games made for Game Jams ✨
-- [![Itch.io Badge](https://img.shields.io/badge/Void%20Voyageur-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/void-voyageur) for [UDC Game Jam #29](https://itch.io/jam/udc-jam-29)
-- [![Itch.io Badge](https://img.shields.io/badge/Rebuilder%3A%20Cursed%20Samurai-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/rebuilder-cursed-samurai) for [UDC Game Jam #27](https://itch.io/jam/udc-jam-27)
-- [![Itch.io Badge](https://img.shields.io/badge/Custom%20Room-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/custom-room) for [UDC Game Jam #26](https://itch.io/jam/udc-jam-26)
-- [![Itch.io Badge](https://img.shields.io/badge/Crime%20Roots-FA5C5C?logo=itchdotio&logoColor=fff&style=plastic)](https://sairon711.itch.io/crime-roots) for [Global Game Jam 2023](https://v3.globalgamejam.org/2023/games)
+[![Itch.io Badge](https://img.shields.io/badge/Void%20Voyageur-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/void-voyageur) for [UDC Game Jam #29](https://itch.io/jam/udc-jam-29)
+
+[![Itch.io Badge](https://img.shields.io/badge/Rebuilder%3A%20Cursed%20Samurai-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/rebuilder-cursed-samurai) for [UDC Game Jam #27](https://itch.io/jam/udc-jam-27)
+
+[![Itch.io Badge](https://img.shields.io/badge/Custom%20Room-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/custom-room) for [UDC Game Jam #26](https://itch.io/jam/udc-jam-26)
+
+[![Itch.io Badge](https://img.shields.io/badge/Crime%20Roots-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/crime-roots) for [Global Game Jam 2023](https://v3.globalgamejam.org/2023/games)
+
+[![Google Play Badge](https://img.shields.io/badge/1D%20Maze-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.Maze1D&pli=1) | [![Itch.io Badge](https://img.shields.io/badge/1D%20Maze-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/maze-1d)
+
+[![Google Play Badge](https://img.shields.io/badge/Pong%20Stars-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.PongStars&pli=1)
 
 ## 🧠 Knowledge Stack
 💻 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)](https://www.debian.org/)
@@ -30,18 +37,3 @@
 - [![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=plastic)](https://dotnet.microsoft.com/en-us/languages/csharp) + [![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=plastic)](https://unity.com)
 - Tools:  
   [![Aseprite Badge](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=fff&style=plastic)](https://www.aseprite.org/)
-
-<!--
-**figo711/figo711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
