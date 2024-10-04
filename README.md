@@ -25,15 +25,6 @@
 
 [![Google Play Badge](https://img.shields.io/badge/Pong%20Stars-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.ElizGameStudios.PongStars&pli=1)
 
-## 🧠 Knowledge Stack
-💻 [![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=plastic)](https://www.debian.org/)
-[![i3 Badge](https://img.shields.io/badge/i3-52C0FF?logo=i3&logoColor=fff&style=plastic)](https://i3wm.org/)
-[![Neovim Badge](https://img.shields.io/badge/LunarVim-BB9AF7?logo=neovim&logoColor=fff&style=plastic)](https://www.lunarvim.org/)
-- 🦀 Rust + [![Tauri Badge](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff&style=plastic)](https://tauri.app/) + [![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=plastic)](https://svelte.dev/)
-- 🐍 Python + [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic)](https://numpy.org/) + [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=plastic)](https://jupyter.org/)
-- 🚀 C/C++
+---
 
-### 🖥️ Game Development
-- [![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=plastic)](https://dotnet.microsoft.com/en-us/languages/csharp) + [![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=plastic)](https://unity.com)
-- Tools:  
-  [![Aseprite Badge](https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=fff&style=plastic)](https://www.aseprite.org/)
+![🧠 Knowledge Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0+Knowledge+Stack&fontFamily=Roboto&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=rust%2Crust%2Cffffff%3Btauri%2Ctauri%2Cffffff%3Bpython%2Cpython%2Cffffff%3Bcplusplus%2Cc%2B%2B%2Cffffff%3Bcsharp%2Cc+sharp%2Cffffff%3B&line2=unity%2Cunity%2Cffffff%3Bgodot%2Cgodot%2Cffffff%3Bsvelte%2Csvelte%2Cffffff%3Breact%2Creact%2Cffffff%3B&line3=astro%2Castro%2Cffffff%3Blangchain%2Clangchain%2Cffffff%3Bstablediffusion%2Cstable+diffusion%2Cffffff%3B)
