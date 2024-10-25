@@ -31,4 +31,6 @@
 
 ![🧠 Knowledge Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0+Knowledge+Stack&fontFamily=Roboto&lineCount=3&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=rust%2Crust%2Cffffff%3Btauri%2Ctauri%2Cffffff%3Bpython%2Cpython%2Cffffff%3Bcplusplus%2Cc%2B%2B%2Cffffff%3Bcsharp%2Cc+sharp%2Cffffff%3B&line2=unity%2Cunity%2Cffffff%3Bgodot%2Cgodot%2Cffffff%3Bsvelte%2Csvelte%2Cffffff%3Breact%2Creact%2Cffffff%3B&line3=astro%2Castro%2Cffffff%3Blangchain%2Clangchain%2Cffffff%3Bstablediffusion%2Cstable+diffusion%2Cffffff%3B)
 
+[![Hits](https://hits.sh/github.com/figo711/figo711.svg?style=for-the-badge&label=counter&color=0000ff&labelColor=000000&logo=github)](https://hits.sh/github.com/figo711/figo711/)
+
 </div>
