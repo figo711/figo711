@@ -1,12 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zen+Antique&pause=500&center=true&vCenter=true&random=false&width=1060&lines=Rebuilder+Project;Coming+Soon)](https://git.io/typing-svg)
 [![Rebuilder Castle Banner](https://github.com/figo711/figo711/blob/main/imgs/rc-logo.png)](https://sairon711.itch.io/)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=for-the-badge)](https://leetcode.com/figo711/)
-[![CodinGame Badge](https://img.shields.io/badge/CodinGame-F2BB13?logo=codingame&logoColor=fff&style=for-the-badge)](https://www.codingame.com/profile/e4eada0db219a2c89a68c152c6b6a1180257233)
-[![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/maxim-panis/)
-[![Google Play Badge](https://img.shields.io/badge/Eliz%20Game%20Studios-000?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/dev?id=5432393032888367651)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discordapp.com/users/457850341149376513)
-[![X Badge](https://img.shields.io/badge/%40sairon711-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/sairon711)
+
+<div align="center">
+  
+[![Google Play Badge](https://img.shields.io/badge/Eliz%20Game%20Studios-414141?logo=googleplay&logoColor=fff&style=for-the-badge)](https://play.google.com/store/apps/dev?id=5432393032888367651)
+
+</div>
 
 ✨ All games: https://eliz-studios.fr/#games
 
@@ -14,7 +12,7 @@
 
 <div align="center">
 
-| | 🎮 Games | | 
+| Release Date | 🎮 Games | Event | 
 | -:|:-:|:-:|
 | 2024 | [![Itch.io Badge](https://img.shields.io/badge/Void%20Voyageur-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/void-voyageur) | [UDC Game Jam #29](https://itch.io/jam/udc-jam-29) |
 | September 2023 | [![Itch.io Badge](https://img.shields.io/badge/Rebuilder%3A%20Cursed%20Samurai-FA5C5C?logo=itchdotio&logoColor=fff&style=for-the-badge)](https://sairon711.itch.io/rebuilder-cursed-samurai) | [UDC Game Jam #27](https://itch.io/jam/udc-jam-27) |
